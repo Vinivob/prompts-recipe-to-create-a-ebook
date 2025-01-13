@@ -17,4 +17,5 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | crie um titulo de um e-book sobre o tema de juros compostos de investimentos, o livro é sobre investimentos e o fator tempo no resultado. O titulo deve ser com um tema informal.                                                    |
-| conteúdo | elenque 7 tópicos a serem considerados para aplicação financeira
+| conteúdo | elenque 7 tópicos a serem considerados para aplicação financeira|
+| conteúdo | em relação ao risco nos investimentos, quais são os maiores riscos?|
